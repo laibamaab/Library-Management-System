@@ -1,0 +1,20 @@
+B,Namal,101,Nimra,4500,Available
+B,Halim,102,Nimra,2000,Available
+B,Ishq,103,Sadia,2600,Not available
+B,Jannat,105,Nimrah,1900,Available
+B,Peer,104,Umera,2300,Available
+B,Kamil,106,Umera,2200,Available
+B,Mushaf,107,Nimra,400,Not available
+B,Lahasil,108,Umera,2400,Available
+B,Yaqeen,109,sadia,1600,Not available
+B,Akas,110,Umera,2300,Available
+S,Amna,201,0,Bs,0
+S,Anum,202,0,MS,0
+S,Laiba,203,103,Bs,1
+S,Maryam,204,107,Bs,1
+S,Marryia,205,109,Bs,1
+S,Wajdan,206,0,MS,0
+S,Umar,207,0,Ms,0
+S,Salar,208,0,MS,0
+S,Sikandar,209,0,MS,0
+S,Dev,210,0,MS,0
