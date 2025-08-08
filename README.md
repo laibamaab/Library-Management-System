@@ -1,13 +1,11 @@
 
-# 📚 Library Management System (C++)
+# Library Management System (C++)
 
 A console-based Library Management System written in C++ that allows users to manage books and student records, issue/return books, and perform various search and update operations. The program uses object-oriented principles and includes functionalities to store data, handle different user menus, and manage book availability.
 
----
+## Features
 
-## 🚀 Features
-
-### 📖 Book Management
+### Book Management
 - Display all book records
 - Search by:
   - Book ID
@@ -17,7 +15,7 @@ A console-based Library Management System written in C++ that allows users to ma
 - Delete books
 - Add new books
 
-### 👩‍🎓 Student Management
+### Student Management
 - Display all student records
 - Search students by:
   - ID
@@ -26,7 +24,7 @@ A console-based Library Management System written in C++ that allows users to ma
 - Delete student records
 - Add new students
 
-### 🔄 Library Operations
+### Library Operations
 - Issue a book to a student
 - Return a book
 - Display:
@@ -37,9 +35,8 @@ A console-based Library Management System written in C++ that allows users to ma
 - Calculate total price of all books
 - Store data to a file for future use
 
----
 
-## 🧱 Code Structure
+## Code Structure
 
 - `menu` class contains the main program logic and menu structure
 - Uses `account` class (from `account.h`) to manage core book and student data operations
@@ -50,7 +47,7 @@ A console-based Library Management System written in C++ that allows users to ma
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **IDE:** Any C++ compiler (e.g., Code::Blocks, DevC++, Visual Studio)
@@ -58,13 +55,12 @@ A console-based Library Management System written in C++ that allows users to ma
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. Make sure you have a C++ compiler installed (like `g++`)
 2. Compile the program:
    ```bash
    g++ main.cpp -o library
-````
 
 3. Run the executable:
 
@@ -74,7 +70,6 @@ A console-based Library Management System written in C++ that allows users to ma
 
 > Note: Make sure all required header files (like `account.h`) are present in the project directory.
 
----
 
 ## 📂 Sample Menu Options
 
@@ -91,7 +86,6 @@ A console-based Library Management System written in C++ that allows users to ma
 10. Main Menu
 ```
 
----
 
 ## 🙌 Contributions
 
