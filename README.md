@@ -71,7 +71,7 @@ A console-based Library Management System written in C++ that allows users to ma
 > Note: Make sure all required header files (like `account.h`) are present in the project directory.
 
 
-## 📂 Sample Menu Options
+## Sample Menu Options
 
 ```text
 1. Display all information
@@ -87,7 +87,7 @@ A console-based Library Management System written in C++ that allows users to ma
 ```
 
 
-## 🙌 Contributions
+## Contributions
 
 This project was created as part of a university assignment to demonstrate OOP, file handling, and menu-driven design using C++.
 
